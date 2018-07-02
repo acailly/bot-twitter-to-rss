@@ -1,0 +1,10 @@
+{
+  "name": "bot-twitter-to-rss",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cross-env": "5.0.5",
+    "rss": "^1.2.2",
+    "twitter": "^1.7.1"
+  }
+}
