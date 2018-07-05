@@ -5,6 +5,7 @@
     "chalk": "^2.3.0",
     "cross-env": "5.0.5",
     "rss": "^1.2.2",
+    "tweet-to-html": "https://github.com/acailly/tweet-to-html",
     "twitter": "^1.7.1"
   }
 }
